@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.songbit.zhpron",
+    "sha256_cert_fingerprints": ["4D:5E:73:04:62:7A:01:EC:7E:1A:EE:50:3B:07:6C:F4:D5:49:B8:BA:42:08:F2:29:14:51:B7:EC:9D:39:18:5B"]
+  }
+}]
